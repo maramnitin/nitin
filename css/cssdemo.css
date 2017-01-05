@@ -1,0 +1,23 @@
+a{
+	color:red;
+	text-decoration: none;
+}
+h1{ 
+	color:blue;
+	font-family: sans-serif;
+}
+
+#myDiv{
+	width:500px;
+	margin:auto;
+	background-color: lightgreen;
+	height:300px;
+}
+div{
+
+	width:500px;
+	margin:auto;
+	background-color:orange;
+	text-align: center;
+	height:30px;
+}
